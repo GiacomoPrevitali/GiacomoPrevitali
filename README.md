@@ -20,10 +20,12 @@
 <p>
 <a href="https://instagram.com/_giacomoprevitali_" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale.tommasi_" height="30" width="40" style="max-width: 100%;"></a></p>
 
-<img align="left" src="https://camo.githubusercontent.com/a11a1bad8864566688a2968fc26c3b49f936634692045539dd56d4a22a98106f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6e6173617474692673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="most" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali&show_icons=true&locale=en&layout=compact" alt="giacomoprevitali" /></p>
 <br>
 <br><br><br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter"/> </p>
+
+
 <!--
 **GiacomoPrevitali/GiacomoPrevitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
