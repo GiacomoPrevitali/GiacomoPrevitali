@@ -1,4 +1,6 @@
 <h1> Hi, I'm Giacomo👋 :desktop_computer: </h1>
+<h3>A student of ITIS Paleocapa :school:</h3>
+<h4>Languages and Tools</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali&show_icons=true&locale=en&layout=compact" alt="Coding" /></p>
 <!--
