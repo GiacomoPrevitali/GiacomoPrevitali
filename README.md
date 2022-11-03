@@ -21,7 +21,7 @@
 <a href="https://instagram.com/_giacomoprevitali_" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale.tommasi_" height="30" width="40" style="max-width: 100%;"></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali&show_icons=true&locale=en&layout=compact" alt="Coding" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoPrevitali)](https://github.com/GiacomoPrevitali/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoprevitali&theme=tokyonight)
 <br>
 <br><br><br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter"/> </p>
