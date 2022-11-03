@@ -1,5 +1,5 @@
-# Hi, I'm Giacomo👋 :desktop_computer:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasatti&label=Profile%20views&color=0e75b6&style=flat" alt="nasatti" /> </p>
+<h1> Hi, I'm Giacomo👋 :desktop_computer: </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasatti&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 <!--
 **GiacomoPrevitali/GiacomoPrevitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
