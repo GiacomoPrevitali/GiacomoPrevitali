@@ -2,8 +2,8 @@
 <h3 align="center">A student of ITIS Paleocapa :school:</h3>
 <ul>
   <li>:book: I'm studying Computer Science</li>
-  <li>:earth_africa:<a href="http://previtaligiacomo.com">www.previtaligiacomo.com</a></li>
-  <li>:mailbox: How to reach me giacomoprevitali11@gmail.com</li>
+  <li>:earth_africa: visite my site <a href="http://previtaligiacomo.com">www.previtaligiacomo.com</a></li>
+  <li>:mailbox: How to reach me <a href="mailto:giacomoprevitali11@gmail.com">giacomoprevitali11@gmail.com</a></li>
 </ul>
 <h4>Languages and Tools:</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter" /> </p>
