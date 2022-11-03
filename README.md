@@ -22,11 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali&show_icons=true&locale=en&layout=compact" alt="Coding" /></p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter"/> </p>
+<br><br><br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter"/> </p>
 <!--
 **GiacomoPrevitali/GiacomoPrevitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
