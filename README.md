@@ -6,16 +6,14 @@
   <li>:mailbox: How to reach me <a href="mailto:giacomoprevitali11@gmail.com">giacomoprevitali11@gmail.com</a></li>
 </ul>
 <h3>Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="arduino" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/it-it/cpp/cpp/?view=msvc-170"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></a>
+<a href="https://learn.microsoft.com/it-it/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"></a>
+<a href="https://docs.python.org/3/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pyhton"></a>
+<a href="https://www.w3schools.com/html/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"></a>
+<a href="https://www.w3schools.com/css/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"></a>
+<a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javacript"></a>
 <a href="https://php.net"><img height="40" src="https://www.ilmiogiornale.org/wp-content/uploads/2022/03/R.png">
-</p>
+<a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
 <h3>Connect with me:</h3>
 <p>
 <a href="https://instagram.com/_giacomoprevitali_" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale.tommasi_" height="30" width="40" style="max-width: 100%;"></a></p>
