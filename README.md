@@ -14,7 +14,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="arduino" width="40" height="40"/> </a>
-
+<a href="https://php.net"><img height="40" src="https://www.ilmiogiornale.org/wp-content/uploads/2022/03/R.png">
 </p>
 <h3>Connect with me:</h3>
 <p>
