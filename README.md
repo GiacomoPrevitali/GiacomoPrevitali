@@ -8,6 +8,7 @@
 <h3>Languages and Tools:</h3>
 <a href="https://learn.microsoft.com/it-it/cpp/cpp/?view=msvc-170"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></a>
 <a href="https://learn.microsoft.com/it-it/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"></a>
+<a href="https://www.linux.it/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 <a href="https://www.arduino.cc"><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"> </a>
 <a href="https://docs.python.org/3/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="pyhton"></a>
 <a href="https://www.w3schools.com/html/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"></a>
