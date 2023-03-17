@@ -2,7 +2,7 @@
 <h3 align="center">A student of ITIS Paleocapa :school:</h3>
 <ul>
   <li>:book: I'm studying Computer Science</li>
-  <li>:earth_africa: visite my site <a href="http://previtaligiacomo.com">www.previtaligiacomo.com</a></li>
+  <li>:earth_africa: visite my site <a href="http://previtaligiacomo.altervista.org">www.previtaligiacomo.com</a></li>
   <li>:mailbox: How to reach me <a href="mailto:giacomoprevitali11@gmail.com">giacomoprevitali11@gmail.com</a></li>
 </ul>
 <h3>Languages and Tools:</h3>
