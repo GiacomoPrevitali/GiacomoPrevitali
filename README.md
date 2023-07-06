@@ -14,6 +14,8 @@
 <a href="https://www.w3schools.com/html/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"></a>
 <a href="https://www.w3schools.com/css/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"></a>
 <a href="https://www.javascript.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javacript"></a>
+<a href="https://getbootstrap.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
+
 <a href="https://www.arduino.cc"><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"> </a>
 <a href="https://php.net"><img height="40" src="https://www.ilmiogiornale.org/wp-content/uploads/2022/03/R.png">
 <a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
