@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Giacomo👋 :desktop_computer: </h1>
-<h3 align="center">A student of ITIS Paleocapa :school:</h3>
+<h3 align="center">A junior full stack developer</h3>
 <ul>
   <li>:book: I'm studying Computer Science</li>
   <li>:earth_africa: visite my site <a href="http://previtaligiacomo.altervista.org">www.previtaligiacomo.com</a></li>
