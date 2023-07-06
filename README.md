@@ -3,7 +3,6 @@
 <ul>
   <li>:book: I'm studying Computer Science</li>
   <li>:earth_africa: visite my site <a href="http://previtaligiacomo.altervista.org">www.previtaligiacomo.altervista.org</a></li>
-  <li>:mailbox: How to reach me <a href="mailto:giacomoprevitali11@gmail.com">giacomoprevitali11@gmail.com</a></li>
 </ul>
 <h3>Languages and Tools:</h3>
 <a href="https://learn.microsoft.com/it-it/cpp/cpp/?view=msvc-170"><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></a>
