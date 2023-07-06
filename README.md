@@ -19,7 +19,9 @@
 <a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
 <h3>Connect with me:</h3>
 <p>
-<a href="https://instagram.com/_giacomoprevitali_" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale.tommasi_" height="30" width="40" style="max-width: 100%;"></a></p>
+<a href="https://www.linkedin.com/in/andrearanica/](https://www.linkedin.com/in/giacomo-previtali-101663268/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
+<a href="mailto:giacomoprevitali11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali" alt="giacomoprevitali" /></p>
 <br>
