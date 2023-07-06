@@ -19,7 +19,7 @@
 <a href="https://www.mysql.com/it/downloads/"><img height="40" src="https://kinsta.com/it/wp-content/uploads/sites/2/2020/01/mysql-logo-1.svg"></a>
 <h3>Connect with me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/andrearanica/](https://www.linkedin.com/in/giacomo-previtali-101663268/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
+<a href="https://www.linkedin.com/in/giacomo-previtali-101663268/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
 <a href="mailto:giacomoprevitali11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 
 
