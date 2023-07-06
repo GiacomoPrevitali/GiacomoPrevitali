@@ -21,7 +21,7 @@
 <h3>Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/giacomo-previtali-101663268/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" height="40"></a>
-"< a href="mailto:giacomoprevitali11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>"
+<a href="mailto:giacomoprevitali11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali" alt="giacomoprevitali" /></p>
