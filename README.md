@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student of Unibg:school: and I'm studing IT engineering:computer:</h3>
 
 <ul>
-  <li></li> 📫 How to reach <a href="mailto:giacomoprevitali11@gmail.com">giacomoprevitali11@gmail.com</a></li>
+  <li> 📫 How to reach <a href="mailto:giacomoprevitali11@gmail.com">giacomoprevitali11@gmail.com</a></li>
   <li>:earth_africa: visite my site <a href="http://previtaligiacomo.altervista.org">www.previtaligiacomo.altervista.org</a></li>
 </ul>
 <h3>Languages and Tools:</h3>
