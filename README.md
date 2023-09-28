@@ -24,7 +24,7 @@
 <a href="mailto:giacomoprevitali11@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="40"></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giacomoprevitali" alt="giacomoprevitali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiacomoPrevitali&show_icons=true&locale=en&layout=compact" alt="GiacomoPrevitali" /></p>
 <br>
 <br><br><br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giacomoprevitali&label=Profile%20views&color=0e75b6&style=flat" alt="Counter"/> </p>
