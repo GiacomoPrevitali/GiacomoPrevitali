@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Giacomo👋 :desktop_computer: </h1>
-<h3 align="center"> Junior full stack developer</h3>
+<h3 align="center">I'm a student of Unibg:school: and I'm studing IT engineering:computer:</h3>
+- 📫 How to reach me **giacomoprevitali11@gmail.com**</li>
 <ul>
-  <li>:book: I'm studying Computer Science</li>
   <li>:earth_africa: visite my site <a href="http://previtaligiacomo.altervista.org">www.previtaligiacomo.altervista.org</a></li>
 </ul>
 <h3>Languages and Tools:</h3>
