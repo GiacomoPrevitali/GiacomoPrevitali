@@ -26,10 +26,12 @@ Mi sto specializzando in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoPrevitali&layout=compact&theme=github_dark)
 
-## 📫 Contatti
-- [giacomoprevitali11@gmail.com](mailto:giacomoprevitali11@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/giacomo-previtali-101663268/)
-- [GitHub](https://github.com/GiacomoPrevitali)
+## 📬 Contatti
+
+| 📧 Email | 💼 LinkedIn | 🛠️ GitHub |
+|:--------:|:-----------:|:---------:|
+| [giacomoprevitail11@gmail.com](mailto:giacomoprevitail11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/giacomo-previtali-101663268/) | [GitHub](https://github.com/GiacomoPrevitali) |
+
 
 
 
