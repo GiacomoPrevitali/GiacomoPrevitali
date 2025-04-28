@@ -22,17 +22,19 @@ Mi sto specializzando in:
 - Lavorare su progetti open-source per migliorare le mie competenze pratiche
 - Prepararmi al mondo del lavoro come sviluppatore software / ingegnere informatico
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoPrevitali&layout=compact&theme=github_dark)
+
 ## 📫 Contatti
-- Email: [giacomoprevitali11@gmail.com](mailto:giacomoprevitali11@gmail.com)
+- [giacomoprevitali11@gmail.com](mailto:giacomoprevitali11@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/giacomo-previtali-101663268/)
 - [GitHub](https://github.com/GiacomoPrevitali)
 
 
 
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoPrevitali&layout=compact&theme=github_dark)
 
 ---
 
