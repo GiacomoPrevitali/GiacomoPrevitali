@@ -23,7 +23,7 @@ Mi sto specializzando in:
 - Prepararmi al mondo del lavoro come sviluppatore software / ingegnere informatico
 
 ## 📫 Contatti
-- Email: [tuo@email.com](mailto:giacomoprevitali11@email.com)
+- Email: [giacomoprevitali11@gmail.com](mailto:giacomoprevitali11@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/giacomo-previtali-101663268/)
 - [GitHub](https://github.com/GiacomoPrevitali)
 
