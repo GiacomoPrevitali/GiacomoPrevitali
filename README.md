@@ -28,9 +28,12 @@ Mi sto specializzando in:
 
 ## 📬 Contatti
 
-| 📧 Email | 💼 LinkedIn | 🛠️ GitHub |
-|:--------:|:-----------:|:---------:|
-| [giacomoprevitail11@gmail.com](mailto:giacomoprevitail11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/giacomo-previtali-101663268/) | [GitHub](https://github.com/GiacomoPrevitali) |
+## 📬 Contatti
+
+- 📧 [Email](mailto:giacomoprevitail11@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/giacomo-previtali-101663268/)
+- 🛠️ [GitHub](https://github.com/GiacomoPrevitali)
+
 
 
 
