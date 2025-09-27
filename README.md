@@ -6,7 +6,7 @@ Sono appassionato di tecnologia, programmazione e continuo a migliorare le mie c
 
 ## 🛠️ Competenze principali
 - Linguaggi: Python, C, C++, Java
-- Web: HTML, CSS, JavaScript (base)
+- Web: HTML, CSS, JavaScript, React (base)
 - Strumenti: Git, Linux, VS Code
 - Database: MySQL, SQLite
 
