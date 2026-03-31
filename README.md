@@ -1,12 +1,12 @@
 # 👋 Ciao, sono Giacomo!
 
 ## 🎓 Chi sono
-Sono un perito informatico e attualmente frequento il **secondo anno di Ingegneria Informatica** presso l'**Università degli Studi di Bergamo (UniBG)**.  
+Sono un perito informatico e attualmente frequento il **terzo anno di Ingegneria Informatica** presso l'**Università degli Studi di Bergamo (UniBG)**.  
 Sono appassionato di tecnologia, programmazione e continuo a migliorare le mie competenze tecniche giorno dopo giorno.
 
 ## 🛠️ Competenze principali
-- Linguaggi: Python, C, C++, Java
-- Web: HTML, CSS, JavaScript, React (base)
+- Linguaggi: Python, C, C++, Java, Dart
+- Web: HTML, CSS, JavaScript, React (base), Angular
 - Strumenti: Git, Linux, VS Code
 - Database: MySQL, SQLite
 
@@ -21,10 +21,6 @@ Mi sto specializzando in:
 - Approfondire lo sviluppo backend e la progettazione di sistemi distribuiti
 - Lavorare su progetti open-source per migliorare le mie competenze pratiche
 - Prepararmi al mondo del lavoro come sviluppatore software / ingegnere informatico
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoPrevitali&layout=compact&theme=github_dark)
 
 ## 📬 Contatti
 
